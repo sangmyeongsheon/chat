@@ -1,2 +1,2 @@
 # chat
-descirbe
+describe
